@@ -1,0 +1,22 @@
+@font-face { font-family: Inter-Black; src: url(Inter-Black.ttf); }
+@font-face { font-family: Poppins-Medium; src: url(Poppins-Medium.ttf); }
+
+body {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: Inter-Black;
+}
+
+p {
+    font-family: Poppins-Medium;
+    font-size: 16px;
+}
+
+img {
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
